@@ -68,3 +68,5 @@ const array5 = [1, 1, 1, 1];
 const array6 = [2, 2, 2, 2];
 isWhole(...array5);
 isWhole(...array6);
+
+///No it does not return the correct result, you just use the spread operator to do so.
